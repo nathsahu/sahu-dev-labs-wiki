@@ -3,7 +3,7 @@
 # 🚀 Sahu Dev-Labs | Ultimate Mobile Linux Hub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dark-Soulx/sahu-dev-labs-wiki/main/assets/preview.png" alt="Sahu Dev Labs Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/nathsahu/sahu-dev-labs-wiki/main/assets/preview.png" alt="Sahu Dev Labs Preview" width="100%">
 </p>
 
 <p align="center">
@@ -39,7 +39,13 @@ Niche diye gaye commands ko ek-ek karke Termux mein paste karein:
 
 ```bash
 yes | pkg up
-pkg install git wget -y
+```bash
+pkg install git
+```bash
+pkg install  wget -y
+```bash
 git clone --depth=1 [https://github.com/Dark-Soulx/sahu-dev-labs-wiki.git](https://github.com/Dark-Soulx/sahu-dev-labs-wiki.git)
+```bash
 cd sahu-dev-labs-wiki
+```bash
 bash docs/setup.sh
