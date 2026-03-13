@@ -3,7 +3,7 @@
 # 🚀 Sahu Dev-Labs | Ultimate Mobile Linux Hub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dark-Soulx/sahu-dev-labs-wiki/main/assets/preview.png" alt="Sahu Dev Labs Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/nathsahu/sahu-dev-labs-wiki/main/assets/Screenshot_2026-03-07_11-20-12.jpg" alt="Sahu Dev Labs Preview" width="100%">
 </p>
 
 <p align="center">
