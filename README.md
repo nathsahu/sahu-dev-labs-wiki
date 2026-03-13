@@ -3,7 +3,7 @@
 # 🚀 Sahu Dev-Labs | Ultimate Mobile Linux Hub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nathsahu/sahu-dev-labs-wiki/main/assets/preview.png" alt="Sahu Dev Labs Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/Dark-Soulx/sahu-dev-labs-wiki/main/assets/preview.png" alt="Sahu Dev Labs Preview" width="100%">
 </p>
 
 <p align="center">
@@ -37,15 +37,61 @@ Download the latest Termux APK from **[HERE](https://f-droid.org/en/packages/com
 ### 2️⃣ Clone the Repository & Run Setup
 Niche diye gaye commands ko ek-ek karke Termux mein paste karein:
 
-```bash
+<pre>
 yes | pkg up
-```bash
-pkg install git
-```bash
-pkg install  wget -y
-```bash
-git clone --depth=1 [https://github.com/Dark-Soulx/sahu-dev-labs-wiki.git](https://github.com/Dark-Soulx/sahu-dev-labs-wiki.git)
-```bash
+pkg install git wget -y
+git clone --depth=1 https://github.com/Dark-Soulx/sahu-dev-labs-wiki.git
 cd sahu-dev-labs-wiki
-```bash
 bash docs/setup.sh
+</pre>
+
+### 3️⃣ Start Ubuntu Environment
+Setup khatam hone ke baad ye commands chalayein:
+
+<pre>
+ubuntu
+bash user.sh
+</pre>
+> **Note:** Apna username hamesha lowercase (chhote aksharo) mein rakhein.
+
+### 4️⃣ Start Desktop GUI (KeX)
+Desktop mode chalu karne ke liye:
+
+<pre>
+ubuntu
+sudo bash gui.sh
+</pre>
+
+---
+
+## 📝 NOTE :
+
+* **Type** `ubuntu` to run Ubuntu CLI.
+* **Type** `vncstart` to run Vncserver.
+* **Type** `vncstop` to stop Vncserver.
+* **Type** `sahu-nh` for Fast Kali NetHunter access.
+
+---
+
+## 📺 Video Tutorial :
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dark-Soulx/sahu-dev-labs-wiki/main/assets/video_thumbnail.png" width="100%" alt="Tutorial">
+</p>
+
+---
+
+## 📜 Credits :
+
+> This tool uses the Ubuntu image provided by the `proot-distro` package. 
+> Full credit goes to the original developers.
+> **Termux Proot Distro:** https://github.com/termux/proot-distro
+
+## 👥 Maintainers :
+
+* **Chetnath (Sahu Dev-Labs)** - [@Dark-Soulx](https://github.com/Dark-Soulx)
+
+---
+<p align="center">
+  <b>If you like our work then dont forget to give a Star ⭐</b>
+</p>
